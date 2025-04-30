@@ -1,0 +1,10 @@
+idea !!!
+
+>> página que empieza por un símbolo 1 que funciona como menú,
+ya que al colocar el mouse encima muestra 3 objetos .png. si quitas el mouse
+del simbolo 1, dejan de mostrarse.
+bueno, cuando ya se muestren los 3 objetos, al darle clic al primero "obj2.png" se muestra (sin salir de la pag)
+un recuadro con un texto. coloca "hola esto es una prueba" como referencia.
+que este recuadro tenga una X para salir y volver a ver la pantalla principal.
+al darle clic luego al "obj3" se muestra en otro recuadro un reproductor
+que tiene el boton play y pausa, para reproducir "cancion2".
