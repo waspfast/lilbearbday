@@ -155,3 +155,18 @@
     -webkit-user-drag: none;
   }
   
+  @media (max-width: 600px) {
+    #popup, #musicBox {
+      left: 10%;
+      width: 80%;
+    }
+  
+    #popup {
+      top: 20%;
+    }
+  
+    #musicBox {
+      top: 50%;
+    }
+  }
+  
