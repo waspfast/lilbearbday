@@ -9,6 +9,7 @@ const closeMusicBtn = document.getElementById('closeMusic');
 const audioPlayer = document.getElementById('audioPlayer');
 const togglePlayBtn = document.getElementById('togglePlay');
 
+
 let hideTimeout;
 
 // Mostrar/ocultar icon2 y icon3 con retardo
